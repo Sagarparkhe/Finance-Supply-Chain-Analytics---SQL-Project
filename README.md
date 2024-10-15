@@ -1,4 +1,4 @@
-# Finance-Supply-Chain-Analytics-SQL-Project
+# Finance-Supply-Chain-Analytics--SQL Project
 
 This project was completed as part of the **CodeBasics Data Analyst Bootcamp 2.0**, where I applied **MySQL** to analyze and optimize the financial and supply chain operations of **AtliQ Hardware**, a global electronics manufacturing company. The primary objective was to address performance challenges and extract key business insights from a growing dataset.
 
