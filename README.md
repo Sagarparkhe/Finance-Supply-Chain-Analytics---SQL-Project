@@ -1,1 +1,1 @@
-# Finance-Supply-Chain-Analytics---SQL-Project
+# Finance-Supply-Chain-Analytics-SQL-Project
